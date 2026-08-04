@@ -2,7 +2,7 @@
   "title": "ViaRList",
   "feed": "Feed",
   "about": "About",
-  "contact": "Contact"
+  "contact": "Contact",
   "about_description": "ViaRList is a manually maintained list of VTubers. Profiles are added and edited directly in the repository data files.",
   "how_to_contribute": "How to contribute",
   "how_to_contribute_steps": "Edit data/profiles.json and add your profile object. Open a pull request."
