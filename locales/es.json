@@ -1,5 +1,9 @@
 {
   "title": "ViaRList",
-  "about": "Una lista de VTubers mantenida manualmente.",
-  "contact": "Contacta vía issues o pull requests en GitHub."
+  "feed": "Feed",
+  "about": "Acerca",
+  "contact": "Contacto",
+  "about_description": "ViaRList es una lista de VTubers mantenida manualmente. Los perfiles se agregan y editan directamente en los archivos del repositorio.",
+  "how_to_contribute": "Cómo contribuir",
+  "how_to_contribute_steps": "Edita data/profiles.json y añade tu objeto de perfil. Abre un pull request."
 }
