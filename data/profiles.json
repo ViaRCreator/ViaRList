@@ -6,7 +6,7 @@
     "country": "Chile",
     "photo": "https://files.catbox.moe/s7wjh6.jpg?text=ViaR",
     "bio": { "en": "3D VR VTuber doing gaming and art.", "es": "VTuber 3D VR de juegos y arte.", "ja": "ゲームとアートをやってる3D VR VTuber。" },
-    "links": { "X/twitter": "https://x.com/ViaRCreator", " ", "youtube": "https://tiktok.com/@hispanovr", " ", "youtube": "https://youtube.com/@hispanovr" },
+    "links": { "X/Twitter": "https://x.com/ViaRCreator", " ", "TikTok": "https://tiktok.com/@hispanovr", " ", "YouTube": "https://youtube.com/@hispanovr" },
     "first_seen": "2025-03-01",
     "last_seen": "2026-07-10",
     "tags": ["gaming","vr"]
@@ -18,7 +18,7 @@
     "country": "USA",
     "photo": "https://via.placeholder.com/300x300.png?text=Alex",
     "bio": { "en": "Variety streamer and chill vibes.", "es": "Streamer de variedad y ambiente relajado.", "ja": "バラエティ配信をするストリーマー。" },
-    "links": { "X/twitter": "https://twitter.com/" },
+    "links": { "X/Twitter": "https://twitter.com/" },
     "first_seen": "2026-06-15",
     "last_seen": "2026-07-05",
     "tags": ["variety","chill"]
