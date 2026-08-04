@@ -41,7 +41,7 @@ nav a{margin-right:12px;color:var(--muted);text-decoration:none}
 
 .banner{
 height:120px;
-background-image: linear-gradient(90deg, rgba(148,0,211,0.12), rgba(14,165,164,0.08)), url('https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80');
+background-image: linear-gradient(90deg, rgba(148,0,211,0.12), rgba(14,165,164,0.08)), url('https://images.unsplash.com/photo-1729520126776-2235a6baa1f5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
 background-size:cover;
 background-position:center;
 border-bottom: 1px solid rgba(255,255,255,0.04);
