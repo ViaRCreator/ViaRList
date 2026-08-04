@@ -6,6 +6,7 @@ export default function About(){
   return (
     <section className="container">
       <h1>{t('about')} ViaRList</h1>
+<p>{t('about_description')}</p>
 <h2>#ENG 🇺🇸 🇬🇧</h2>
 <p>ViaRList is a list of VTubers that is less bureaucratic than the others, ViaRList makes it easier to become part of the list. The data is updated manually, there are no automations.
 You can review the code of this project, in the repository corresponding to ViaRList.</p>
