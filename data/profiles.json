@@ -1,15 +1,15 @@
 [
   {
-    "id": "miyu-chan",
-    "name": { "en": "Miyu Chan", "es": "Miyu Chan", "ja": "みゆちゃん" },
-    "region": "Asia",
-    "country": "Japan",
+    "id": "viar-creator",
+    "name": { "en": "ViaR", "es": "ViaR", "ja": "バイアル" },
+    "region": "Americas",
+    "country": "Chile",
     "photo": "https://via.placeholder.com/300x300.png?text=Miyu",
-    "bio": { "en": "VTuber doing gaming and art.", "es": "VTuber de juegos y arte.", "ja": "ゲームとアートをするVTuber。" },
-    "links": { "twitter": "https://twitter.com/miyu", "youtube": "https://youtube.com/" },
-    "first_seen": "2026-07-01",
+    "bio": { "en": "3D VR VTuber doing gaming and art.", "es": "VTuber 3D VR de juegos y arte.", "ja": "ゲームとアートをやってる3D VR VTuber。" },
+    "links": { "X/twitter": "https://x.com/ViaRCreator", "youtube": "https://tiktok.com/@hispanovr", "youtube": "https://youtube.com/@hispanovr" },
+    "first_seen": "2025-03-01",
     "last_seen": "2026-07-10",
-    "tags": ["gaming","art"]
+    "tags": ["gaming","vr"]
   },
   {
     "id": "alex-streams",
@@ -18,7 +18,7 @@
     "country": "USA",
     "photo": "https://via.placeholder.com/300x300.png?text=Alex",
     "bio": { "en": "Variety streamer and chill vibes.", "es": "Streamer de variedad y ambiente relajado.", "ja": "バラエティ配信をするストリーマー。" },
-    "links": { "twitter": "https://twitter.com/alex" },
+    "links": { "X/twitter": "https://twitter.com/" },
     "first_seen": "2026-06-15",
     "last_seen": "2026-07-05",
     "tags": ["variety","chill"]
