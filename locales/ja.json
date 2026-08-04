@@ -1,5 +1,9 @@
 {
   "title": "ViaRList",
-  "about": "手動で管理されるVTuberのリストです。",
-  "contact": "GitHubのissueかpull requestで連絡してください。"
+  "feed": "フィード",
+  "about": "概要",
+  "contact": "連絡先",
+  "about_description": "ViaRListは手動で管理されるVTuberのリストです。プロフィールはリポジトリのデータファイルに直接追加・編集されます。",
+  "how_to_contribute": "参加方法",
+  "how_to_contribute_steps": "data/profiles.jsonを編集してプロフィールオブジェクトを追加してください。プルリクエストを開いてください。"
 }
