@@ -17,3 +17,24 @@ ViaRList は他の VTuber よりも官僚的ではない VTuber のリストで�
 このプロジェクトのコードは、ViaRList に対応するリポジトリで確認できます。
 
 これは非営利プロジェクト、または販売のためのデータ収集です。データはあなたの VTuber キャラクターに対応するものであり、個人的なものではなく、あなたをサポートするものであり、それ以上のものではありません。コンテンツクリエイター間のサポートを目的としています。
+
+
+# Request to Join/Solicitar Unirse/参加のリクエスト
+
+#ENG 🇺🇸 🇬🇧
+Write to ViaRCreator in X/Twitter sending the following information:
+VTuber name, your country of origin, a very brief description of what you do, three social media links maximum, date of your first published content.
+For the profile photo, you must publish the file in a normally supported format, on the "https://catbox.moe/" website, and send the link provided by the website, along with the data requested above.
+As the sole maintainer of the site, it may take a few days for the profile to be published. Thank you for your understanding.
+
+#ESP 🇲🇽 🇪🇸
+Escribe a ViaRCreator en X/Twitter enviando los siguientes datos:
+Nombre de VTuber, tu país de origen, una muy breve descripción de lo que haces, tres enlaces de redes sociales como máximo, fecha de tu primer contenido publicado.
+Para la foto de perfil, debes publicar el archivo en un formato normalmente admitido, en la web "https://catbox.moe/", y enviar el enlace que entrega la web, junto con los datos solicitados anteriormente.
+Como único maintainer del sitio, la publicación del perfil podría tardar unos días. Gracias por su comprensión.
+
+#JAP 🇯🇵 🇯🇵
+X/Twitter の ViaRCreator に書き込み、次の情報を送信します。
+VTuber の名前、出身国、あなたの活動の簡単な説明、最大 3 つのソーシャル メディア リンク、最初に公開されたコンテンツの日付。
+プロフィール写真の場合は、通常サポートされている形式でファイルを Web サイト「https://catbox.moe/」に公開し、Web サイトが提供するリンクを上記で要求されたデータとともに送信する必要があります。
+サイトの唯一の管理者であるため、プロフィールが公開されるまでに数日かかる場合があります。ご理解のほどよろしくお願いいたします。
